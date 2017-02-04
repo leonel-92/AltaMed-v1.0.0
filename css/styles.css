@@ -46,7 +46,6 @@ body{
 
 .text_component{
 	font-family: HelveticaNeue;
-
 	text-align: center;
 	margin-top: 140px;
 	width: 500px;
@@ -103,8 +102,6 @@ body{
 	font-family: HelveticaNeue;
 	font-size: 24px;
 }
-
-
 li{
 	list-style-position: outside;
 	float: left;
